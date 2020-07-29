@@ -1,8 +1,0 @@
-<html>
-
-<head>
-
-<title>This is a test html document</title>
-</head>
-
-<body>I want to see if my tagsoup will parse, and also if it will come up as the homepage of my site. <a href='/publichtml.cgi'>Test Link</a></body></html>
