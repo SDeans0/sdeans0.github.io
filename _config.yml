@@ -8,19 +8,19 @@ author:
   url:          https://sdeans0.github.io
 
 # Build settings
-remote_theme: inelaah/rain
+remote_theme: sdeans0/rain
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jemoji
 
 # Social media links
 social:
   email: samdeans75@gmail.com
   github: https://github.com/sdeans0
   linkedin: https://www.linkedin.com/in/samdeans/
+  about: true
 
 permalink:      /:year-:month-:day/:title
-paginate:       5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
