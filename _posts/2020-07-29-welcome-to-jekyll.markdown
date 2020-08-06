@@ -2,7 +2,7 @@
 layout: post
 title:  "This time, I won't abandon it"
 date:   2020-08-06 12:00:00 +0100
-categories: interesting_things research memo
+categories: interesting_things research memo made_things
 ---
 
 This isn't the first time I've thought about making a blog -
