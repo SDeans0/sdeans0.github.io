@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-07-29 21:58:08 +0100
-categories: jekyll update
+title:  "This time, I won't abandon it"
+date:   2020-08-06 12:00:00 +0100
+categories: interesting_things research memo
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+This isn't the first time I've thought about making a blog -
+I'm probably not alone in having a few false starts on that front.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The core problem in starting a blog is to find something worth writing about,
+and that someone else may gain some pleasure from reading. Previously I had
+thought there would be some particular topic that I'd write about with authority;
+something biological, or about the day-to-day practice of science. This aim was
+the issue; there are plenty of good explanations of basic biological concepts
+online, and it was unclear I would be adding. This time, I've decided to take
+a broader and perhaps more humble view, and I intend to write some short
+articles about (in roughly decreasing order of frequency):
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- Things that I am interested in
+- Things that I want to know about (and so research in a slightly more structured way)
+- Things that I don't want to forget (e.g. how to quit vim)
+- Things I have made (e.g. [Sam's Games Cupboard](https://gheoghst-game.herokuapp.com))
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I'm not going to commit to a timetable, but I hope that this framing will help
+motivate turning unstructured rumination into more coherent thoughts.
