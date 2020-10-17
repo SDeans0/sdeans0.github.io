@@ -18,7 +18,7 @@ social:
   email: samdeans75@gmail.com
   github: https://github.com/sdeans0
   linkedin: https://www.linkedin.com/in/samdeans/
-  about: true
+  about: T
 
 permalink:      /:year-:month-:day/:title
 
