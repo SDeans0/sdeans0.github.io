@@ -104,11 +104,3 @@ evolutionary process.
 [_Ginkgo Biloba_]: https://www.botanic.cam.ac.uk/education-learning/trails/plant-evolution/ginkgo-biloba/
 [liverworts]: https://en.wikipedia.org/wiki/Marchantiophyta
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
-
-
-
-- There is a parallel about how it is curated and evolution
-- The parallel is highlighted by the henderson darwin thing
-- Living fossils are a common error in biology and elsewhere
-- We should be careful about the limits of metaphors
-- What can we actually predict about biology?
