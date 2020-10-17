@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Living Fossil Fallacy"
-date:   2020-08-06 12:00:00 +0100
+date:   2020-10-17 12:00:00 +0100
 categories: interesting_things
 ---
 
