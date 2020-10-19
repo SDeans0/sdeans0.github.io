@@ -29,7 +29,7 @@ that the tree in front of you is indistinguishable from one strolled past by a d
 millions of years ago.
 
 The term 'living fossil', though, is misleading. It implies evolutionary stasis,
-as though there is really nothing different between the trees at the end of Henderson's Walk
+as though there is really nothing different between the trees at the end of the Main Walk
 and some prehistoric forest. It is obvious from first principles that this cannot
 be true; they live in profoundly different climates, and compete with profoundly
 different species than their fossil doppelgängers – something must have changed
@@ -93,7 +93,16 @@ to understanding evolution. 'Living fossil' is in the same category for me;
 perhaps it is a useful for intuition, but it doesn't tell us about any fundamental
 evolutionary process.
 
-
+The Cambridge Botanical Gardens are currently curated by some excellent evolutionary
+biologists, and I urge you (if you are able) to [visit]. They have installed a new
+exhibit about plant evolution, with a wooden walkway (I suppose they were jealous
+of [Kew's]) which offers a wonderful view of the garden. Looking back across
+the systematic beds, with plants arranged by family, and the tree-flanked avenue planted
+by Henslow, Darwin's mentor, in the 19<sup>th</sup> century, I was struck by the thought
+that the garden itself had something in common with its contents. Its broad arrangement
+set down 150 years ago, with the embryonic evolutionary thinking of its founder,
+remain basically unchanged. The detailed planting of each bed, and the information placed
+unobtrusively around them, though, cement its relevance to 21<sup>st</sup> century science.
 
 [^1]: Morphology is a technical term encompassing the shape and apperance of an organism
 [^2]: Technically thalli, but who's counting?
@@ -104,3 +113,5 @@ evolutionary process.
 [_Ginkgo Biloba_]: https://www.botanic.cam.ac.uk/education-learning/trails/plant-evolution/ginkgo-biloba/
 [liverworts]: https://en.wikipedia.org/wiki/Marchantiophyta
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
+[visit]: https://www.botanic.cam.ac.uk/visit-us/
+[Kew's]:https://www.kew.org/kew-gardens/whats-in-the-gardens/treetop-walkway
