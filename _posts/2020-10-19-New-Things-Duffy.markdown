@@ -36,4 +36,4 @@ accomplished artist, it can be little better than a ghastly Soviet mural.
 Ultimately, it was worth the second chance. I often find myself suggesting to friends
 who have dismissed favourite works of mine to reconsider; I thus have to hold myself
 to the same standard, and this time I was pleasantly surprised. You still won't find
-me dead with a book of Wordsworth, though.
+me dead with a collected Wordsworth, though.
