@@ -93,12 +93,13 @@ to understanding evolution. 'Living fossil' is in the same category for me;
 perhaps it is a useful for intuition, but it doesn't tell us about any fundamental
 evolutionary process.
 
-The Cambridge Botanical Gardens are currently curated by some excellent evolutionary
-biologists, and I urge you (if you are able) to [visit]. They have installed a new
+The Cambridge Botanical Gardens are currently curated by Prof. Beverly Glover,
+an eminent evolutionary biologist, and I urge you (if you are able) to [visit].
+They have installed a new
 exhibit about plant evolution, with a wooden walkway (I suppose they were jealous
-of [Kew's]) which offers a wonderful view of the garden. Looking back across
+of [Kew's]) which offers a wonderful view of the garden. Standing on it, looking back across
 the systematic beds, with plants arranged by family, and the tree-flanked avenue planted
-by Henslow, Darwin's mentor, in the 19<sup>th</sup> century, I was struck by the thought
+by Henslow, Darwin's mentor, I was struck by the thought
 that the garden itself had something in common with its contents. Its broad arrangement
 set down 150 years ago, with the embryonic evolutionary thinking of its founder,
 remain basically unchanged. The detailed planting of each bed, and the information placed
