@@ -96,12 +96,12 @@ evolutionary process.
 The Cambridge Botanical Gardens are currently curated by Prof. Beverly Glover,
 an eminent evolutionary biologist, and I urge you (if you are able) to [visit].
 They have installed a new
-exhibit about plant evolution, with a wooden walkway (I suppose they were jealous
+exhibit about plant evolution, with a [wooden walkway][rp] (I suppose they were jealous
 of [Kew's]) which offers a wonderful view of the garden. Standing on it, looking back across
-the systematic beds, with plants arranged by family, and the tree-flanked avenue planted
+the [systematic beds][rp], with plants arranged by family, and the tree-flanked avenue planted
 by Henslow, Darwin's mentor, I was struck by the thought
 that the garden itself had something in common with its contents. Its broad arrangement
-set down 150 years ago, with the embryonic evolutionary thinking of its founder,
+set down 180 years ago, with the embryonic evolutionary thinking of its founders,
 remain basically unchanged. The detailed planting of each bed, and the information placed
 unobtrusively around them, though, cement its relevance to 21<sup>st</sup> century science.
 
@@ -116,3 +116,4 @@ unobtrusively around them, though, cement its relevance to 21<sup>st</sup> centu
 [hornworts]: https://en.wikipedia.org/wiki/Hornwort
 [visit]: https://www.botanic.cam.ac.uk/visit-us/
 [Kew's]:https://www.kew.org/kew-gardens/whats-in-the-gardens/treetop-walkway
+[rp]:https://www.botanic.cam.ac.uk/the-garden/gardens-plantings/systematic-beds/
