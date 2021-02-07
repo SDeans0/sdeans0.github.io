@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python in an afternoon"
-date:   2020-02-05 12:00:00 +0100
+date:   2021-02-05 12:00:00 +0100
 categories: made_things
 ---
 
